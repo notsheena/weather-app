@@ -15,4 +15,4 @@ A simple weather app that provides current weather, 5-day forecast, and location
 - Location-based weather
 
 ## Author
-[Your Name]
+Sheena Buwemi
