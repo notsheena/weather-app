@@ -1,1 +1,27 @@
- 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Weather App</title>
+</head>
+<body>
+    <form id="weather-form">
+        <input type="text" id="city" placeholder="Enter city">
+        <button type="submit">Get Weather</button>
+    </form>
+    <div id="weather-info"></div>
+    
+    <button id="info-button">About PM Accelerator</button>
+    <p id="author">Created by [Sheena Buwemi]</p>
+    
+    <script src="app.js"></script>
+    <script>
+        document.getElementById('info-button').addEventListener('click', function() {
+            alert('PM Accelerator is a company focused on AI development.');
+        });
+    </script>
+</body>
+</html>
+
+
