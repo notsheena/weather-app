@@ -5,7 +5,7 @@ Software Engineer Intern - AI/ML Application Tech Assessment
 A simple weather app that provides current weather, 5-day forecast, and location-based weather.
 
 ## Setup
-- Clone the repository: `git clone [repository-url]`
+- Clone the repository: `git clone https://github.com/notsheena/weather-app.git
 - Navigate to the directory: `cd weather-app`
 - Open `index.html` in a web browser.
 
