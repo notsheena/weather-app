@@ -1,5 +1,5 @@
 # weather-app
-Software Engineer Intern - AI/ML Application Tech Assessment 
+
 
 ## Description
 A simple weather app that provides current weather, 5-day forecast, and location-based weather.
